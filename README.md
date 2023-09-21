@@ -10,10 +10,10 @@ Welcome to my repository containing solutions to 10 complete lists of programmin
 4. [Loops and random numbers](/List%203-Extra/)
 5. [Functions and Recursion](/List%204/)
 6. [Arrays](/List%205/)
-7. [Matrices](/list%206/)
-8. [Strings](/list%207/)
-9. [Pointers](/list%208/)
-10. [Structures](/list%209/)
+7. [Matrices](/List%206/)
+8. [Strings](/List%207/)
+9. [Pointers](/List%208/)
+10. [Structures](/List%209/)
 
 ## 🚧 Project Status
 
